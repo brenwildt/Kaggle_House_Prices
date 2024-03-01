@@ -9,6 +9,8 @@ pandas = "*"
 scikit-learn = "*"
 matplotlib = "*"
 seaborn = "*"
+catboost = "*"
+optuna = "*"
 
 [dev-packages]
 
