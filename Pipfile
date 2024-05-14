@@ -11,6 +11,9 @@ matplotlib = "*"
 seaborn = "*"
 catboost = "*"
 optuna = "*"
+shap = "*"
+pyarrow = "*"
+streamlit = "*"
 
 [dev-packages]
 
