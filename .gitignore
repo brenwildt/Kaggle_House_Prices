@@ -1,0 +1,6 @@
+*.txt
+rohan-house-price-prediction.ipynb
+sample_submission.csv
+*.tmp
+*.tfevents
+tmp/
