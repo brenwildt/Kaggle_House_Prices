@@ -8,7 +8,7 @@ from catboost import CatBoostRegressor, Pool
 import joblib
 
 # Path of the trained model and data
-MODEL_PATH = "model\catboost_model.cbm" 
+MODEL_PATH = "model/catboost_model.cbm" 
 DATA_PATH = "fulldata.parquet"
 
 st.set_page_config(page_title="House Price Prediction Project")
